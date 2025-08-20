@@ -92,7 +92,7 @@ The goal is to showcase how modern cloud-based **data engineering + data science
 
 ---
 
-## 📌 Relevance for Recruiters  
+## 📌 Tools  
 
 This project highlights practical skills in:  
 ✔️ **Azure Data Engineering** (Data Factory, Lakehouse, Delta tables)  
